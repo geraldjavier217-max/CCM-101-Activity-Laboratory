@@ -1,7 +1,3 @@
-
-*Create `Laboratory-03-Multi-Cloud-Explorer/aws-research.md`.*
-
-```markdown
 # Amazon Web Services (AWS) Research Documentation
 
 ## Brief Overview
