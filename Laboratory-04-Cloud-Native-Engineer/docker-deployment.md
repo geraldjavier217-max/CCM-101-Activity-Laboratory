@@ -14,10 +14,6 @@
    * **Explanation:** Lists all containers on the host system, including those that are currently running, paused, or exited/stopped.
 
 4. `docker rm my-nginx-server`
-   * **Explanation:** Permanently deletes the stopped `my-nginx-server` container instance from the local host system.
-
-## Terminal Output Screenshot
-
 Below is the screenshot showing the complete execution of the container lifecycle commands:
 
 ![Container Lifecycle](./screenshots/container-lifecycle.png)
